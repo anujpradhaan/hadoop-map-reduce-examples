@@ -1,0 +1,8 @@
+Collect the other word for a english word in all the languages
+
+Dataset:  You need to have dictionaries of the required languages
+Example:  English to German dictionary, English to Hindi dictionary
+
+Output: Each english word with all the relating words. 
+
+Example : englishword	wordingerman,wordinrussin,wordinmadarian etc

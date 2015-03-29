@@ -1,0 +1,14 @@
+You can implement a distributed grep kind of application using Map Reduce.
+
+Problem Satetement: Create a distibuted Grep For very large data. 
+
+Consider this as a two part problem
+
+1) Count the matched results 
+2) Show the filename with line number which actually matches the input string.
+Expected output: 
+
+Output for 1): Just show the number of times the string occured
+
+Output for 2): Show the line filename,linenumber and matched line with the matched line in between **
+
