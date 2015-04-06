@@ -1,0 +1,2 @@
+Problem statement : Given a set of documents, calculate the TFIDF for each word present in the corpus. Remember, TFIDF is according to 
+the document. So, a single word may have diferent tfidf for same word in separate document.
